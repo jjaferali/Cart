@@ -1,0 +1,31 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:55123/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "api/Order",
+      "environmentVariables": {
+        "CartDB": "Server=tcp:fsdpracserver.database.windows.net,1433;Initial Catalog=Cart;Persist Security Info=False;User ID=jaffer;Password=password-1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "server": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/Order",
+      "environmentVariables": {
+        "CartDB": "Server=tcp:fsdpracserver.database.windows.net,1433;Initial Catalog=Cart;Persist Security Info=False;User ID=jaffer;Password=password-1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:55123/"
+    }
+  }
+}

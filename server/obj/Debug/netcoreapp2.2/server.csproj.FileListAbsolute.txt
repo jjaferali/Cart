@@ -1,0 +1,20 @@
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Debug\netcoreapp2.2\Properties\serviceDependencies.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Debug\netcoreapp2.2\Properties\serviceDependencies.TestNews - Web Deploy.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Debug\netcoreapp2.2\server.deps.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Debug\netcoreapp2.2\server.runtimeconfig.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Debug\netcoreapp2.2\server.runtimeconfig.dev.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Debug\netcoreapp2.2\server.dll
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Debug\netcoreapp2.2\server.pdb
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Debug\netcoreapp2.2\server.csprojAssemblyReference.cache
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Debug\netcoreapp2.2\server.AssemblyInfoInputs.cache
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Debug\netcoreapp2.2\server.AssemblyInfo.cs
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Debug\netcoreapp2.2\server.csproj.CoreCompileInputs.cache
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Debug\netcoreapp2.2\server.RazorAssemblyInfo.cache
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Debug\netcoreapp2.2\server.RazorAssemblyInfo.cs
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Debug\netcoreapp2.2\server.RazorTargetAssemblyInfo.cache
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Debug\netcoreapp2.2\server.dll
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Debug\netcoreapp2.2\server.pdb
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Debug\netcoreapp2.2\server.genruntimeconfig.cache

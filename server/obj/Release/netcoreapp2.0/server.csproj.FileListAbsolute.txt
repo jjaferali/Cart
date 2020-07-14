@@ -1,0 +1,18 @@
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Release\netcoreapp2.0\Properties\serviceDependencies.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Release\netcoreapp2.0\Properties\serviceDependencies.TestNews - Web Deploy.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Release\netcoreapp2.0\server.deps.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Release\netcoreapp2.0\server.runtimeconfig.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Release\netcoreapp2.0\server.runtimeconfig.dev.json
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Release\netcoreapp2.0\server.dll
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\bin\Release\netcoreapp2.0\server.pdb
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Release\netcoreapp2.0\server.csprojAssemblyReference.cache
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Release\netcoreapp2.0\server.AssemblyInfoInputs.cache
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Release\netcoreapp2.0\server.AssemblyInfo.cs
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Release\netcoreapp2.0\server.csproj.CoreCompileInputs.cache
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Release\netcoreapp2.0\server.dll
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Release\netcoreapp2.0\server.pdb
+C:\Users\433764\Downloads\Project2-master\Project2-master\server\server\obj\Release\netcoreapp2.0\server.genruntimeconfig.cache
